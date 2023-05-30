@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/SalvaProd/static/css/main.3a79e45c.css",
+    "main.js": "/SalvaProd/static/js/main.929227b3.js",
+    "static/js/27.306ae5d5.chunk.js": "/SalvaProd/static/js/27.306ae5d5.chunk.js",
+    "index.html": "/SalvaProd/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3a79e45c.css",
+    "static/js/main.929227b3.js"
+  ]
+}
